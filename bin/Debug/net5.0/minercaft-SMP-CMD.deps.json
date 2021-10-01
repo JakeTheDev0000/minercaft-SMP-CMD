@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "minercaft-SMP-CMD/1.0.0": {
+        "runtime": {
+          "minercaft-SMP-CMD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "minercaft-SMP-CMD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

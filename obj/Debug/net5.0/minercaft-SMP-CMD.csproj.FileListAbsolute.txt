@@ -1,0 +1,16 @@
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\bin\Debug\net5.0\minercaft-SMP-CMD.exe
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\bin\Debug\net5.0\minercaft-SMP-CMD.deps.json
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\bin\Debug\net5.0\minercaft-SMP-CMD.runtimeconfig.json
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\bin\Debug\net5.0\minercaft-SMP-CMD.runtimeconfig.dev.json
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\bin\Debug\net5.0\minercaft-SMP-CMD.dll
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\bin\Debug\net5.0\ref\minercaft-SMP-CMD.dll
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\bin\Debug\net5.0\minercaft-SMP-CMD.pdb
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\obj\Debug\net5.0\minercaft-SMP-CMD.csproj.AssemblyReference.cache
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\obj\Debug\net5.0\minercaft-SMP-CMD.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\obj\Debug\net5.0\minercaft-SMP-CMD.AssemblyInfoInputs.cache
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\obj\Debug\net5.0\minercaft-SMP-CMD.AssemblyInfo.cs
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\obj\Debug\net5.0\minercaft-SMP-CMD.csproj.CoreCompileInputs.cache
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\obj\Debug\net5.0\minercaft-SMP-CMD.dll
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\obj\Debug\net5.0\ref\minercaft-SMP-CMD.dll
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\obj\Debug\net5.0\minercaft-SMP-CMD.pdb
+D:\codeFiles\projects\minecraft-SMP-cmd C#\minercaft-SMP-CMD\obj\Debug\net5.0\minercaft-SMP-CMD.genruntimeconfig.cache
