@@ -1,0 +1,9 @@
+base: 39 67 0
+village1: 42 69 191
+village2: 28 70 500
+stronghold: 599 37 654
+
+<nether>
+
+potal: 16 53 7
+blaze: -310 63 155
